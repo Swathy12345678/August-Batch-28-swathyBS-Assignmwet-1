@@ -1,0 +1,121 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  
+
+
+}
+
+ nav{
+     display: flex;
+      justify-content: space-between;
+       align-items: center;
+
+
+
+ }
+nav ul{
+    display: flex;
+    justify-content: space-between;
+     align-items: center;
+     width: 50%;
+
+    list-style: none;
+
+
+}
+.logo
+{
+    margin-left: 50px;
+     margin-top: 10px;
+
+}
+.lbtn
+{
+background-color: black;
+color: white;
+padding: 10px 20px ;
+border-radius: 20px;
+
+}
+
+.main-section 
+
+{
+  margin-top: 90;
+margin-left: 80px;
+}
+.main section h1{
+
+  font-size: 100px;
+} 
+
+  
+
+
+/* grop selectors*/
+.sub1, .sub2, .sub3,.sub4 
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+   margin-left: 20px;
+}
+.sub1 ul,  .sub2 ul, .sub3 ul, .su4 ul {
+  list-style-type: none;
+
+}
+
+.main-div
+{
+  display: flex;
+  
+}
+
+.image
+{
+  margin-top: 40px;
+}
+footer button
+{
+  display: flex;
+  
+  text-align: center;
+  color: black;
+  font-size: larger;
+  justify-content: center;
+  padding: 10px 20px;
+border-radius: 20px;
+margin-top: 30px;
+margin: auto;
+
+
+}
+section h1
+{
+ display: flex;
+margin-left: 60px;
+margin-top: 70px;
+font-size: xx-large;
+margin-bottom: 70px;
+
+}
+section image
+{
+  margin-top: 50px;
+margin-left: 40px;
+
+}
+ .h2 image {
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  
+  
+}
+  
+
+
+
